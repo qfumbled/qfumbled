@@ -1,4 +1,4 @@
-## Hi there 👋
+## i know nix but dunno how to explain my configuration
 
 <!--
 **qfumbled/qfumbled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
